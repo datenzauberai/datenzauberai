@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datenzauberai
-- 👀 I’m interested in all things data science, machine learning and especially time series forecasting
-- 🌱 I’m currently learning how-to forecast using Deep Learning
+- 👀 I’m interested in all things data science, machine learning and especially time series forecasting, recommender systems & optimization
+- 🌱 I’m always learning :-)
 - 💞️ I’m looking to collaborate on time series forecasting
 - 📫 How to reach me ...
   - Twitter: https://twitter.com/datenzauberai
